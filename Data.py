@@ -11,5 +11,11 @@ Data = [
         "image": "https://flxt.tmsimg.com/assets/p11546593_p_v8_af.jpg"
         "Context": "",
     },
+    {
+        "id": 2,
+        "Movie Name": "RRR",
+        "image": "https://images.news18.com/ibnlive/uploads/2022/05/untitled-design-2-95-165400034116x9.png"
+        "Context": "Dosti",
+    },
 
 ]
